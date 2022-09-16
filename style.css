@@ -33,7 +33,10 @@
     color: #fff;
     top: 0;
     transform: translateY(-150%);
-    font-size: 3rem;
+    font-size: 3rem; 
+    font-weight: 600;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;  
 }
 .skill,
 .languages {
